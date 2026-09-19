@@ -1,0 +1,20 @@
+# Data files
+data/dataset.csv
+data/symptom_Description.csv
+data/symptom_precaution.csv
+data/Symptom-severity.csv
+
+# Allow sample only
+!data/sample_diseases.csv
+
+# Checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+venv/
+.env
